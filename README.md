@@ -1,4 +1,4 @@
-# Bash Script + Bash Function for quick access to project directory
+# Bash Script for quick access to project directory
 
 Go through the setup instructions below to create a bash script/command that will change the shell path to your desired project directory.
 
